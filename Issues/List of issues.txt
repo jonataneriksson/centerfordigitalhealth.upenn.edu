@@ -1,0 +1,5 @@
+**List of issues for updating centerfordigitalhealth.upenn.edu**
+
+- [ ] #1 Update to the new logo asset
+- [ ] #2 Change the Header Color
+- [ ] #3 Change the Header
