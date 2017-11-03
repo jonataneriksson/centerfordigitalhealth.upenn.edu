@@ -1,5 +1,35 @@
 **List of issues for updating centerfordigitalhealth.upenn.edu**
 
-- [ ] #1 Update to the new logo asset
-- [ ] #2 Change the Header Color
-- [ ] #3 Change the Header
+# Frontpage and global changes
+
+- [ ] #1 Update to the new logo asset 
+- [ ] #2 Change Header Color 
+- [ ] #3 Remove Logo. 
+- [ ] #4 Change the Header Penn Medicine Logo Asset. 
+- [ ] #5 Upload the Center logo asset asset [for Jonatan]
+- [ ] #6 New "spacier" project button layout. 
+- [ ] #7 Move News section to the bottom. 
+- [ ] #8 "See More" Button could be only 66% of the full width. And with border radius of 33%. 
+- [ ] #9 Top margin of the "See More" button should be at least 60px. 
+- [ ] #10 Bottom margin of the "See More" button should be at least 60px. 
+- [ ] #11 Footer links under the divider line should show up next to each other. (inline-block or other.) 
+- [ ] #12 All footer texts should be in the smaller type size (16px) 
+- [ ] #13 New Color Palette 
+- [ ] #14 The width of the homepage introduction text can now be 70% of the main column. 
+- [ ] #15 New Heading styles for PROJECT and NEWS sections on the homepage. font-size: 21px; text-transform: uppercase; letter-spacing: 1px, line-height: 100%; etc.. 
+- [ ] #16 Project button height should be 100px and the text should top align. 
+- [ ] #17 Let's add http://fontawesome.io and add little circled arrows before each news source. 
+- [ ] #18 Remove this line and change the background image to a new one with a "fade". 
+- [ ] #19 Bring projects up on top of the background image and under the introduction text. 
+
+# Inside pages
+
+- [ ] #20 Change divider lines to 4px. 
+- [ ] #21 New background asset and background color. 
+- [ ] #22 Font-size to 21px. Line-height to 33px & 7% padding on the right side. 
+- [ ] #23 Update new color palette. 
+- [ ] #24 Re-arrange to follow this layout. 
+- [ ] #25 48px margin above the main title. 
+- [ ] #26 Text width to 60 percent (780px) of what it is now. 
+- [ ] #27 Maximum width for the main column should be 1180px everywhere.
+- [ ] #28 Upload Penn Medicine Logo Asset 
