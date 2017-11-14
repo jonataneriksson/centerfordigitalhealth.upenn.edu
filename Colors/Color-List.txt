@@ -1,0 +1,9 @@
+Jade: #64c0aa
+Dark Green: #09595a
+Orange: #fa501e
+Light Blue: #5999b2
+Dark Pink: #f09d99
+Dark Aqua: #00415e
+Bright Green: #09b15a
+Dark Purple: #24294f
+Sand: #a9918c
